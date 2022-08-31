@@ -1,7 +1,6 @@
-<h1 align="center">Hi 👋, I'm Jesse Chang</h1>
+<h1 align="center">Hi 👋, I'm Jason Chang</h1>
 <h3 align="center">Backend developer from Taiwan</h3>
 
-- 🔭 I’m currently working on **Wistron**
 - Recently coding in Django with python, and React with JavaScript.
 
 <h3 align="left">Languages and Tools:</h3>
@@ -14,7 +13,7 @@
 - Build REST api in Django.
 <p align="left"> 
 <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-<a href="https://www.djangoproject.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40"/> </a>
+<a href="https://www.djangoproject.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain-wordmark.svg" alt="django" width="40" height="40"/> </a>
 </p>
 
 
